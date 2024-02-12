@@ -1,0 +1,32 @@
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.BLL.deps.json
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.BLL.dll
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.BLL.pdb
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.csproj.AssemblyReference.cache
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.AssemblyInfoInputs.cache
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.AssemblyInfo.cs
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.dll
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\refint\ToDo.BLL.dll
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.pdb
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ref\ToDo.BLL.dll
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.DAL.dll
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.DAL.pdb
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.csproj.CopyComplete
+C:\Users\dimak\OneDrive\Рабочий стол\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.sourcelink.json
+C:\Users\dimak\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.BLL.deps.json
+C:\Users\dimak\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.BLL.dll
+C:\Users\dimak\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.BLL.pdb
+C:\Users\dimak\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.DAL.dll
+C:\Users\dimak\ToDo_SS\ToDo.BLL\bin\Debug\net8.0\ToDo.DAL.pdb
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.csproj.AssemblyReference.cache
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.AssemblyInfoInputs.cache
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.AssemblyInfo.cs
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.sourcelink.json
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.csproj.CopyComplete
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.dll
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\refint\ToDo.BLL.dll
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ToDo.BLL.pdb
+C:\Users\dimak\ToDo_SS\ToDo.BLL\obj\Debug\net8.0\ref\ToDo.BLL.dll
