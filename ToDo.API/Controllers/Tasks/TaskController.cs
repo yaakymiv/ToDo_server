@@ -3,6 +3,7 @@ using ToDo.BLL.DTO.Tasks;
 using ToDo.BLL.MediatR.Tasks.Create;
 using ToDo.BLL.MediatR.Tasks.Delete;
 using ToDo.BLL.MediatR.Tasks.GetAll;
+using ToDo.BLL.MediatR.Tasks.Update;
 
 namespace ToDo.API.Controllers.Tasks
 {
@@ -26,10 +27,10 @@ namespace ToDo.API.Controllers.Tasks
             return HandleResult(await Mediator.Send(new DeleteTaskCommand(id)));
         }
         
-        // [HttpPut]
-        // public async Task<IActionResult> Update([FromBody]JobDto jobDto)
-        // {
-        //     return HandleResult(await Mediator.Send(new UpdateJobCommand(jobDto)));
-        // }
+        [HttpPut]
+        public async Task<IActionResult> Update([FromBody]TaskDTO jobDto)
+        {
+            return HandleResult(await Mediator.Send(new UpdateTaskCommand(jobDto)));
+        }
     }
 }
